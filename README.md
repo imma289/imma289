@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imma289
 - 👀 I’m interested in Software Development and Cybersecurity
 - 🌱 I’m currently learning C++ and Data Structure and Algorithms
-- 💞️ I’m looking to collaborate on Link minded individuals to further my learning
+- 💞️ I’m looking to collaborate with like minded individuals to further my learning
 - 📫 How to reach me imblood289@gmail.com
 
 <!---
